@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">HMS Skeleton Detection</string>
+    <string name="normal_detect">Normal Detect</string>
+    <string name="yoga_detect">Yoga Detect</string>
+</resources>

@@ -1,0 +1,35 @@
+{
+	"agcgw":{
+		"backurl":"connect-dre.dbankcloud.cn",
+		"url":"connect-dre.hispace.hicloud.com"
+	},
+	"client":{
+		"appType":"1",
+		"cp_id":"5190090000026762631",
+		"product_id":"736430079244734793",
+		"client_id":"513792795626975616",
+		"client_secret":"02F9D9B7C5015BAC67655AA8E16095B19EC0BE822B809607291C4B87A7FD3AE4",
+		"project_id":"736430079244734793",
+		"app_id":"103456007",
+		"api_key":"CgB6e3x99Zi5z24HD76oIozVv0z03ZzmTMwEst7/MPXQ00sFTttVkMCsylLKIEhtQDRCihVPCnNSx+X+tcZFLbYs",
+		"package_name":"app.dtse.hmsskeletondetection"
+	},
+	"service":{
+		"analytics":{
+			"collector_url":"datacollector-dre.dt.hicloud.com,datacollector-dre.dt.dbankcloud.cn",
+			"resource_id":"p1",
+			"channel_id":""
+		},
+		"search":{
+			"url":"https://search-dre.cloud.huawei.com"
+		},
+		"cloudstorage":{
+			"storage_url":"https://ops-dre.agcstorage.link"
+		},
+		"ml":{
+			"mlservice_url":"ml-api-dre.ai.dbankcloud.com,ml-api-dre.ai.dbankcloud.cn"
+		}
+	},
+	"region":"DE",
+	"configuration_version":"1.0"
+}
